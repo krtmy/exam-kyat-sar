@@ -1,0 +1,1 @@
+{"name":"exam-kyat-sar-search","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1","index":"node scripts/index-documents.mjs","test":"node --test"},"dependencies":{"vite":"^6.4.1","pdfjs-dist":"^4.10.38","mammoth":"^1.9.1","minisearch":"^7.1.2","dompurify":"^3.2.6"}}
